@@ -1,0 +1,31 @@
+{
+  "name": "study_3.0",
+  "version": "3.0.0",
+  "description": "chat(native js)",
+  "main": "index.html",
+  "scripts": {
+    "start": "./node_modules/.bin/static-server .",
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "lint": "./node_modules/.bin/eslint components/**/*.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/BLACKSJACK/chat-native-js.git"
+  },
+  "keywords": [
+    "chat"
+  ],
+  "author": "RoGGeR",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/BLACKSJACK/chat-native-js/issues"
+  },
+  "homepage": "https://github.com/BLACKSJACK/chat-native-js#readme",
+  "dependencies": {
+    "eslint": "^4.18.0",
+    "static-server": "^3.0.0"
+  },
+  "devDependencies": {
+    "eslint-config-google": "^0.9.1"
+  }
+}
