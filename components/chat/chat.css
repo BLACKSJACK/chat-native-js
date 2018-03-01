@@ -1,0 +1,20 @@
+.chat{
+    width: 350px;
+    display: block;
+}
+.chat__message{
+    min-width: 30px;
+    width: inherit;
+    display: block;
+    height: 100px;
+    text-align: left;
+}
+.me{
+    text-align: right;
+}
+.form{
+    display: block;
+}
+.form__textarea{
+    width: 200px;
+}

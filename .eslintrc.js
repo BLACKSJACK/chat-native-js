@@ -5,6 +5,10 @@ module.exports = {
         "sourceType": "module",
         "ecmaFeatures": {
             "jsx": true
-        }
+        },
+        
     },
+    "rules":{
+        "max-len": [1, 140],
+    }
 };

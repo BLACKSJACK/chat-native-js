@@ -1,0 +1,22 @@
+[
+    {
+        "sender": "Andrew",
+        "text": "Hello, my name is Andrew",
+        "currentUser": false
+    },
+    {
+        "sender": "Kate",
+        "text": "Hello, my name is Kate",
+        "currentUser": false
+    },
+    {
+        "sender": "Austin",
+        "text": "Hello, my name is Austin",
+        "currentUser": false
+    },
+    {
+        "sender": "Alice",
+        "text": "Hello, my name is Alice what the fuck is wrong?",
+        "currentUser": false
+    }
+]

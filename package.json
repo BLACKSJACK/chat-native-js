@@ -23,6 +23,7 @@
   "homepage": "https://github.com/BLACKSJACK/chat-native-js#readme",
   "dependencies": {
     "eslint": "^4.18.0",
+    "less": "^3.0.1",
     "static-server": "^3.0.0"
   },
   "devDependencies": {
