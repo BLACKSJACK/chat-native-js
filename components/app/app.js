@@ -5,6 +5,7 @@ import {Form} from './../form/form.js';
  */
 export class App {
     /**
+     * proverka
      * @param  {object} el Элемент DOM
      */
     constructor({el}) {
